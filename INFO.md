@@ -14,3 +14,4 @@ n
 status
 quit
 git commit -m '+2/-0'
+new changes
