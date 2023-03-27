@@ -8,3 +8,5 @@ vim file - edit text file
 git add. - add all files in index
 git commit -am  -add all files in workspace in index
 git add -i  shows changed parts
+remove directory: rm -R "DIR"
+sudo -i root user!
