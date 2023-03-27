@@ -10,3 +10,4 @@ git commit -am  -add all files in workspace in index
 git add -i  shows changed parts
 remove directory: rm -R "DIR"
 sudo -i root user!
+git pull - download git
