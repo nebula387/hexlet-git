@@ -11,3 +11,8 @@ git add -i  shows changed parts
 remove directory: rm -R "DIR"
 sudo -i root user!
 git pull - download git
+
+python3 -m venv first_venv
+first_venv/bin/pip install cowsay
+first_venv/bin/cowsay hello создание локального виртуального окружения
+
