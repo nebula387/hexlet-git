@@ -21,3 +21,5 @@ first_venv/bin/cowsay hello создание локального виртуал
 cowsay -f eyes "ooo"
 grep
 >>>>>>> c44b455 (--)
+!# shebang (sharp bang)
+
