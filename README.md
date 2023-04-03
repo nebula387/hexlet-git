@@ -23,3 +23,5 @@ grep
 >>>>>>> c44b455 (--)
 !# shebang (sharp bang)
 
+
+https://white55.ru/cmdmain.html - список команд!!!
